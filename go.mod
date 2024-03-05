@@ -1,6 +1,6 @@
 module copperstate.games
 
-go 1.22.0
+go 1.19.9
 
 require (
 	github.com/heksagonnet/piko v0.0.0-20230326021046-49fea5abb244 // indirect
